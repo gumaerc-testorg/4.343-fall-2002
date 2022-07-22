@@ -5,6 +5,7 @@ file: /courses/4-343-photography-and-related-media-fall-2002/972463ac39632d17b5f
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Works by Peter Jamieson
 uid: 972463ac-3963-2d17-b5fe-dcbb5dd80e41
 ---
 Sample photography from the course by Peter Jamieson.
-
