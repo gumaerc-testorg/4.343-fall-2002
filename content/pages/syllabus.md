@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides an introductory video and information
+  on course meeting times, class components, and the schedule of course topics.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 1c8a8e41-94bf-9df5-bd3a-c64024802853
 ---
