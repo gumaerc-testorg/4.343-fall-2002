@@ -2,6 +2,7 @@
 content_type: resource
 description: Sample photography from the course by Christine Gaspar.
 file: /courses/4-343-photography-and-related-media-fall-2002/58a3b218e4ce692fb44b500641e7aaa3_gaspar.pdf
+file_size: 335394
 file_type: application/pdf
 learning_resource_types:
 - Projects
