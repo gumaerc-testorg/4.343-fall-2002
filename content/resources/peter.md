@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample photography from the course by Peter Jamieson.
-file: /courses/4-343-photography-and-related-media-fall-2002/972463ac39632d17b5fedcbb5dd80e41_peter.pdf
+file: /ol-ocw-studio-app/courses/4-343-photography-and-related-media-fall-2002/972463ac39632d17b5fedcbb5dd80e41_peter.pdf
 file_size: 204633
 file_type: application/pdf
 learning_resource_types:
