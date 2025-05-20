@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample photography from the course by Anthony Todd Marcus.
-file: /ol-ocw-studio-app/courses/4-343-photography-and-related-media-fall-2002/ba427ab7da7a74a2d2c9a183e753262c_atm.pdf
+file: /courses/4-343-photography-and-related-media-fall-2002/ba427ab7da7a74a2d2c9a183e753262c_atm.pdf
 file_size: 595806
 file_type: application/pdf
 learning_resource_types:

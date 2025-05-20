@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample photography from the course by Liz Burow.
-file: /ol-ocw-studio-app/courses/4-343-photography-and-related-media-fall-2002/f6beefc6adaadae7535bcce297ecfb68_burow.pdf
+file: /courses/4-343-photography-and-related-media-fall-2002/f6beefc6adaadae7535bcce297ecfb68_burow.pdf
 file_size: 582831
 file_type: application/pdf
 learning_resource_types:
